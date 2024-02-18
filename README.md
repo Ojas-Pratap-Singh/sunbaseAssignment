@@ -8,6 +8,12 @@ JWT Authentication<br>
 SQL (Database: customerdb)<br>
 
 
+
+https://github.com/Ojas-Pratap-Singh/sunbaseAssignment/assets/128834924/bd7ab9cc-8e5a-47c0-86c2-2d0bc23936af
+
+
+
+
 # Getting Started
 1. Clone the Repository
    Clone this repository to your local machine using the following HTTPS link:
