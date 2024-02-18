@@ -36,6 +36,9 @@ Also make necessay changes to application.properties according to your database 
 # Start the Backend Server
 Once you have completed the above steps: <br>
 
+# Frontend repo link 
+https://github.com/Ojas-Pratap-Singh/sunbasefronted
+
 Open the project in IntelliJ IDEA. <br>
 Right-click on the file and choose "Run SunbaseAssignmentApplication." <br> <br>
 
